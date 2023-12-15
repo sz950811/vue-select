@@ -1,3 +1,5 @@
+## 效果图
+![image](https://github.com/sz950811/vue-select/assets/64963500/86103624-7eff-4f0d-adf0-53906adefdf1)
 
 ## 页面结构
 
@@ -191,8 +193,4 @@
       this.filterConfig.dataRepresentation[i].max = null;
     },
 ```
-
-## 效果
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/33464973385645e598c4482586a97e53.png#pic_center)
 
